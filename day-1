@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 #Day1 - Edited by Branch A
-=======
 #Day1 - Edited by branch b
->>>>>>> branch-b
 -My name is ArunPrakash
 -I am starting mu AI-Ready QA journey today
 -My goal- become job-proof in 6 months
@@ -14,3 +11,18 @@
 #Day3
 -I learned what git branch are
 -This line were written on branch day-3-branch
+
+#Day4
+-Pull request, different view and merge
+
+#Day5
+-merge conflict, triggered and fixed
+
+#Day6
+-.gitignore + Reading a real repo
+
+
+##Week1 Complete- Git foundation
+-Learned- clone, branch, add, commit, push, PR, merge, merge, pull, conflict resolution.
+-Learned- git vs github vs CI/CD automation
+-Ready for week 2 - Postman API testing
